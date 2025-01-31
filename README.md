@@ -1,8 +1,11 @@
-# React + Vite
+## 🚀 Learning from this Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Through this project, I have gained hands-on experience with the following concepts:
 
-Currently, two official plugins are available:
+- **State Management**: Efficiently handling and updating component states in React.
+- **useEffect Hook**: Understanding how to properly use `useEffect` for side effects.
+- **Conditional Rendering**: Dynamically displaying components based on conditions.
+- **setInterval Function**: Implementing timers in React using `setInterval`.
+- **Code Separation**: Organizing code into reusable and maintainable components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project serves as a great example of how to manage time-based events in React while maintaining clean and structured code. 🚀
